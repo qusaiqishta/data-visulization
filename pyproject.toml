@@ -6,6 +6,11 @@ authors = ["qusaiqishta <qeshtaqusai0@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+sklearn = "^0.0"
+pandas = "^1.2.5"
+jupyterlab = "^3.0.16"
+matplotlib = "^3.4.2"
+seaborn = "^0.11.1"
 
 [tool.poetry.dev-dependencies]
 
